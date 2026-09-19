@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "polanyi-nonprod-1",
+      "n": "mxowWAfKeNvuxQqBi12T6FowaAzxrkOWVHfbCBVj9rNwu3yiqHg75_q_a7CLIWAeNwFi5uCZcpR6eiF8LWtrCwC-cnmeaUSggfu6Fhi9jEdVaLXu59rSYaS0WaaxH6JxtcfzEJwcxviPw2Ggkvku4BM115_MNV0jBCzGbvTNYiJoftQDxbxhDK3bBApveDNVzrx61Ee3c4T9n9ULVHbqu4Zc2AaHs4Nk_bFCl-BMG2Im6JxU4UEQYxfbgaKRbvVrKsrR-ZapJBzPNvJo7qTRBHZSmy9XlyKUQRoyQQAxbqfE2s7Ejv3MpG036zG50tWll2EpDDv86OagNGLP2BrYNHJ1qM5Gp_1_6Y12rKbYkbi6ZWf-08cj9o44EDrNnS_-9ypIIqmi563b6RTieiPGsTepYILc65tGKCgX8qoGYZhmp_tkFJeQo0We8AJtlDDO9IbaBHjqmeDyUVy5aI0BYaslOm4gZ7FFYLOTSEDcLVTA8AYU8z4KKJIMDf0KvWf8UBuDpxnbdspUiSxLHeFW1kNf8SdUlhNWXmEm2xx7VUqb3KfVFidehOwv7AcgVkXpjSKaEkNC9S-JgFEX2E3vKd622J6I5oQr6AMdkSLs0bYmQa5euDNbmFB_d8I_83URzMtCL8hg37UFwnjXMawcKtM7J_YVugy0ZhGQFT-YC8E",
+      "e": "AQAB"
+    }
+  ]
+}
