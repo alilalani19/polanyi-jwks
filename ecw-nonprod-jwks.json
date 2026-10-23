@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "polanyi-nonprod-ecw-1",
+      "n": "7WOisPOMtt6HX6ndDEiBZn5m0M5Pa5rYPomGQU50tDQD9vLTeIw3CcbZgenXOdymBTzoT8eCn5xGSQmzgbhhUuOeiG4vvEPYR1v7EEaIBFKOWuydh208_QjLWd13ReCCmrGwmWIo3Ki0Su-SILMbzqBx8SwxanSIm335kWjn2Us7FVqsvYkKqKoMYxbeGTX45lE7sYQwUkORxrPBJwO_EjpqfIdFbGGvxU4b3H923apH2U4MuBFdQRhQsnLGLnnfO1V6oUYGJiM9a7Bt8uu7bcukdGmsz197D5MaS6d3MOQ0xEb5Q2YiVlwXR2CsPb5JCfN4Sm3lHJbMWB2MkDSb_AqvUE9O6x5Yhv29Qyr2dE2MGmIHi7HDJvp2OXVyYGLgLp4bF-RX8EqlIaNrHsautgG2M3ntY52ks9LnKKj8QIE5EpTgLArmK_KbpZE4V_5GI-4E39-udWA_jMYfCmdpTAP2ZzVEpFdzNRlJsCYqcAtwF46yfcOAhsavgHVmmklt",
+      "e": "AQAB"
+    }
+  ]
+}
